@@ -2,6 +2,7 @@ Link to unlisted youtube video:
 https://youtu.be/Umz3MuUCM2M
 
 Link to the Concept Map:
+https://github.com/errhythm/CSE449/blob/main/submission3/Concept%20Map.pdf
 
 Name, Author, Edition, Year and Publisher of the Book:
 Principles of Distributed Database Systems 3e by M Tamer Ozsu, Patrick Valduriez
