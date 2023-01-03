@@ -6,6 +6,7 @@ https://easychair.org/conferences/?conf=ica2023
 Paper title: Distributed Computing for Big Data Analytics: Challenges and Opportunities
 
 Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1p4_-XIiVA0sx8tbf8TvwLGbe-JVpiOg6Y6GMgfCYZAg/edit?usp=sharing
 
 Paper submission date (to workshop/conference): 19/12/2022
 
